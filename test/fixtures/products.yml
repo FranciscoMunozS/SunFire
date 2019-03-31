@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  income_date: 2019-03-31
+  dispatch_date: 2019-03-31
+  bill: MyString
+  provider: MyString
+  unit_value: 1
+  quantity: 1
+  iva_value: 1
+  total: 1
+  ubication: MyString
+
+two:
+  code: MyString
+  name: MyString
+  income_date: 2019-03-31
+  dispatch_date: 2019-03-31
+  bill: MyString
+  provider: MyString
+  unit_value: 1
+  quantity: 1
+  iva_value: 1
+  total: 1
+  ubication: MyString
